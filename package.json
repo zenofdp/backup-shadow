@@ -1,12 +1,1 @@
-{
-  "name": "setup-shadow-bot",
-  "version": "1.0.0",
-  "description": "Bot Discord - Setup serveur Shadow",
-  "main": "setup_shadow.js",
-  "scripts": {
-    "start": "node setup_shadow.js"
-  },
-  "dependencies": {
-    "discord.js": "^14.0.0"
-  }
-}
+
