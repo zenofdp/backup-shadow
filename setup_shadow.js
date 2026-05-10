@@ -4,8 +4,8 @@ const client = new Client({
   intents: [GatewayIntentBits.Guilds]
 });
 
-const TOKEN = 'METS_TON_TOKEN_ICI';
-const GUILD_ID = 'METS_L_ID_DE_TON_SERVEUR_ICI';
+const TOKEN = 'MTUwMzA1MDU2NDI4MjM1NTc0Mg.GVrfPw.Zp2MFSxC1wp0aU_cexunmxGy_pHdGxk-tMrR3Y';
+const GUILD_ID = '1503049395200065576';
 
 // ============================================================
 // CONFIGURATION DES RÔLES
